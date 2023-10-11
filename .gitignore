@@ -1,3 +1,6 @@
+#Ignore Directories
+2010_Galveston/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
